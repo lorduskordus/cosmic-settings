@@ -13,7 +13,7 @@ connections-and-profiles = { $variant ->
     [wifi] Wi-Fi
     [vpn] VPN
     *[other] Unknown
-} connections and connection profiles.
+} connections and connection profiles
 
 add-network = Add network
     .profile = Add profile
