@@ -691,7 +691,7 @@ short = Short
 long = Long
 keyboard = Keyboard
 
-keyboard-sources = Input Sources
+keyboard-sources = Input sources
     .desc = Input sources can be switched using Super + Space key combination. This can be customized in the keyboard shortcut settings.
     .move-up = Move up
     .move-down = Move down
@@ -700,7 +700,7 @@ keyboard-sources = Input Sources
     .remove = Remove
     .add = Add input source
 
-keyboard-special-char = Special Character Entry
+keyboard-special-char = Special character entry
     .alternate = Alternate characters key
     .compose = Compose key
     .compose-desc = The compose key allows a wide variety of characters to be entered. To use it, press compose and then a sequence of characters. For example, compose key followed by C and o will enter ©, while compose key followed by a and ‘ will enter á.
@@ -816,7 +816,7 @@ move-windows = Move windows
     .send-to-next-workspace = Move window to next workspace
 
 system-shortcut = System
-    .app-library = Open the app library
+    .app-library = Open the App Library
     .brightness-down = Decrease display brightness
     .brightness-up = Increase display brightness
     .display-toggle = Toggle internal display
@@ -824,7 +824,7 @@ system-shortcut = System
     .keyboard-brightness-down = Decrease keyboard brightness
     .keyboard-brightness-up = Increase keyboard brightness
     .launcher = Open the Launcher
-    .log-out = Log Out
+    .log-out = Log out
     .lock-screen = Lock the screen
     .mute = Mute audio output
     .mute-mic = Mute microphone input
@@ -841,7 +841,7 @@ system-shortcut = System
     .web-browser = Open a web browser
     .window-switcher = Switch between open windows
     .window-switcher-previous = Switch between open windows reversed
-    .workspace-overview = Open the workspace overview
+    .workspace-overview = Open the Workspace overview
 
 window-tiling = Window tiling
     .horizontal = Set horizontal orientation
@@ -855,8 +855,8 @@ window-tiling = Window tiling
 replace-shortcut-dialog = Replace shortcut?
     .desc = { $shortcut } is used by { $name }. If you replace it, { $name } will be disabled.
 
-zoom-in = Zoom In
-zoom-out = Zoom Out
+zoom-in = Zoom in
+zoom-out = Zoom out
 
 ## Input: Mouse
 
